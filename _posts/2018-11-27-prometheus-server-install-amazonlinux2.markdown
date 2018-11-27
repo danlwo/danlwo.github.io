@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Install Prometheus Server in Amazon Linux 2"
-date:   2018-11-27 20:51:23 +0800
+date:   2018-11-27 21:00:00 +0800
 categories: jekyll update
 ---
 
