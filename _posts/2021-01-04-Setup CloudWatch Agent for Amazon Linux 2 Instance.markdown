@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Setup CloudWatch Agent for Amazon Linux 2"
+date:   2021-01-04 13:00:00 +0800
+categories: jekyll update
+---
 
 # Setup CloudWatch Agent for Amazon Linux 2 Instance
 
